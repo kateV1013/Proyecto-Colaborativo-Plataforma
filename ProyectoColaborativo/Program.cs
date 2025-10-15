@@ -8,8 +8,11 @@ namespace ProyectoColaborativo
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
+            Console.WriteLine("¡Hola, Mundo!");
+            Console.WriteLine("¡Bienvenido al Proyecto Colaborativo!");
+            Console.WriteLine("¡Vamos a construir algo increíble juntos!");
         }
     }
 }
