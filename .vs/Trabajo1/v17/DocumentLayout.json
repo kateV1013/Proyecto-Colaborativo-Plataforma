@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Equipo\\Documents\\Colaborativo-Plataforma\\Trabajo1\\",
+  "WorkspaceRootPath": "C:\\Users\\inmo\\Desktop\\Proyecto-Colaborativo-Plataforma\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{630F2190-BFCB-4532-AF0A-341B0E36A5FB}|Trabajo1\\Trabajo1.csproj|c:\\users\\equipo\\documents\\colaborativo-plataforma\\trabajo1\\trabajo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{630F2190-BFCB-4532-AF0A-341B0E36A5FB}|Trabajo1\\Trabajo1.csproj|c:\\users\\inmo\\desktop\\proyecto-colaborativo-plataforma\\trabajo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{630F2190-BFCB-4532-AF0A-341B0E36A5FB}|Trabajo1\\Trabajo1.csproj|solutionrelative:trabajo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{630F2190-BFCB-4532-AF0A-341B0E36A5FB}|Trabajo1\\Trabajo1.csproj|c:\\users\\inmo\\desktop\\proyecto-colaborativo-plataforma\\trabajo1\\moduloc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{630F2190-BFCB-4532-AF0A-341B0E36A5FB}|Trabajo1\\Trabajo1.csproj|solutionrelative:trabajo1\\moduloc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,34 +18,57 @@
       "DocumentGroups": [
         {
           "DockedWidth": 188,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ModuloC.cs",
+              "DocumentMoniker": "C:\\Users\\inmo\\Desktop\\Proyecto-Colaborativo-Plataforma\\Trabajo1\\ModuloC.cs",
+              "RelativeDocumentMoniker": "Trabajo1\\ModuloC.cs",
+              "ToolTip": "C:\\Users\\inmo\\Desktop\\Proyecto-Colaborativo-Plataforma\\Trabajo1\\ModuloC.cs*",
+              "RelativeToolTip": "Trabajo1\\ModuloC.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T19:44:29.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Equipo\\Documents\\Colaborativo-Plataforma\\Trabajo1\\Trabajo1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\inmo\\Desktop\\Proyecto-Colaborativo-Plataforma\\Trabajo1\\Program.cs",
               "RelativeDocumentMoniker": "Trabajo1\\Program.cs",
-              "ToolTip": "C:\\Users\\Equipo\\Documents\\Colaborativo-Plataforma\\Trabajo1\\Trabajo1\\Program.cs",
+              "ToolTip": "C:\\Users\\inmo\\Desktop\\Proyecto-Colaborativo-Plataforma\\Trabajo1\\Program.cs",
               "RelativeToolTip": "Trabajo1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-15T19:07:36.552Z",
               "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 212,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             }
           ]
         }
